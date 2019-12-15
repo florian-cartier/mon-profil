@@ -1,0 +1,6 @@
+couleur navbar: https://stackoverflow.com/questions/18529274/change-navbar-color-in-twitter-bootstrap
+logo navbar: https://stackoverflow.com/questions/23400234/centering-brand-logo-in-bootstrap-3-navbar
+flexbox; https://www.w3schools.com/css/css3_flexbox.asp
+image avec hoover: https://codepen.io/ArnaudBalland/pen/vGZKLr
+carte avec photo: https://www.w3schools.com/howto/howto_css_cards.asp
+cards: https://www.bootdey.com/snippets/view/Gradients-dashboard-cards;
